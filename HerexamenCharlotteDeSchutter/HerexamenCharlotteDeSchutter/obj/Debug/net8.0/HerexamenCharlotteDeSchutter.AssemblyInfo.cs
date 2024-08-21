@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerexamenCharlotteDeSchutter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898d1c44d0153e4de853e1f983adb55053e2f749")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08a4d565e7e2948d3087ad4717ce0e495bcef6d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerexamenCharlotteDeSchutter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerexamenCharlotteDeSchutter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
